@@ -4,5 +4,6 @@ public class Vexed {
             return frilly.substring(0, 4);
         } else {
             return String.valueOf(frilly.length() + beechy.length());
+        }//123 kai abc
     }
 }
